@@ -1,0 +1,30 @@
+{
+  "name": "writable2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "writer.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonewman/writer.git"
+  },
+  "keywords": [
+    "writer"
+  ],
+  "author": "Sam Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonewman/writer/issues"
+  },
+  "homepage": "https://github.com/sonewman/writer",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "readable-stream": "^1.0.33",
+    "xtend": "^4.0.0"
+  }
+}
