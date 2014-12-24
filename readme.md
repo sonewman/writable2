@@ -1,6 +1,7 @@
 # Writable2
 
-[![Build St`atus](https://travis-ci.org/sonewman/writable2.svg?branch=master)](http://travis-ci.org/sonewman/writable2)
+
+[![Build Status](https://travis-ci.org/sonewman/writable2.svg?branch=master)](http://travis-ci.org/sonewman/writable2)
 
 Inspired by the two great `through` stream modules ([through](https://github.com/dominictarr/through) and [through2](https://github.com/rvagg/through2))
 
