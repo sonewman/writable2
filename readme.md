@@ -18,7 +18,7 @@ someReadable.pipe(writable(function (data, enc, next) {
 ```
 
 ## Usage:
-s
+
 ### writable([options, ] write [, onFinish])
 Will create a standard writable stream which requires all written data to be a `string` or `buffer`
 
