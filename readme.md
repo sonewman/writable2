@@ -18,12 +18,12 @@ someReadable.pipe(writable(function (data, enc, next) {
 ```
 
 ## Usage:
-
+s
 ### writable([options, ] write [, onFinish])
 Will create a standard writable stream which requires all written data to be a `string` or `buffer`
 
 ### writable.obj([options, ] write [, onFinish])
 Will create an writable stream in `objectMode` which means that an object can be written to the stream
 
-### writable.ctr([options, ] write [, onFinish])
+### writable.ctor([options, ] write [, onFinish])
 Will create a constructor for a writable stream with the specified arguments
